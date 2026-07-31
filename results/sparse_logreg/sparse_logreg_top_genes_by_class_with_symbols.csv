@@ -1,0 +1,241 @@
+class,direction,rank,gene_id,gene_symbol,coefficient
+"CD16-positive, CD56-dim natural killer cell, human",positive,1,ENSG00000211829,TRDC,0.5651499
+"CD16-positive, CD56-dim natural killer cell, human",positive,2,ENSG00000198821,CD247,0.45729187
+"CD16-positive, CD56-dim natural killer cell, human",positive,3,ENSG00000115607,IL18RAP,0.37570304
+"CD16-positive, CD56-dim natural killer cell, human",positive,4,ENSG00000203747,FCGR3A,0.3450529
+"CD16-positive, CD56-dim natural killer cell, human",positive,5,ENSG00000159674,SPON2,0.295481
+"CD16-positive, CD56-dim natural killer cell, human",positive,6,ENSG00000169583,CLIC3,0.2500056
+"CD16-positive, CD56-dim natural killer cell, human",positive,7,ENSG00000100385,IL2RB,0.20644698
+"CD16-positive, CD56-dim natural killer cell, human",positive,8,ENSG00000150045,KLRF1,0.19212572
+"CD16-positive, CD56-dim natural killer cell, human",positive,9,ENSG00000189430,NCR1,0.18728127
+"CD16-positive, CD56-dim natural killer cell, human",positive,10,ENSG00000180644,PRF1,0.18675058
+"CD16-positive, CD56-dim natural killer cell, human",positive,11,ENSG00000111796,KLRB1,0.13945313
+"CD16-positive, CD56-dim natural killer cell, human",positive,12,ENSG00000127947,PTPN12,0.13094753
+"CD16-positive, CD56-dim natural killer cell, human",positive,13,ENSG00000171476,HOPX,0.1294799
+"CD16-positive, CD56-dim natural killer cell, human",positive,14,ENSG00000075426,FOSL2,0.11567105
+"CD16-positive, CD56-dim natural killer cell, human",positive,15,ENSG00000109906,ZBTB16,0.10005973
+"CD16-positive, CD56-dim natural killer cell, human",positive,16,ENSG00000176845,METRNL,0.08630316
+"CD16-positive, CD56-dim natural killer cell, human",positive,17,ENSG00000137441,FGFBP2,0.08530903
+"CD16-positive, CD56-dim natural killer cell, human",positive,18,ENSG00000100453,GZMB,0.083368614
+"CD16-positive, CD56-dim natural killer cell, human",positive,19,ENSG00000140678,ITGAX,0.074934974
+"CD16-positive, CD56-dim natural killer cell, human",positive,20,ENSG00000158869,FCER1G,0.07336591
+"CD16-positive, CD56-dim natural killer cell, human",negative,1,ENSG00000167286,CD3D,-0.14648387
+"CD16-positive, CD56-dim natural killer cell, human",negative,2,ENSG00000277734,TRAC,-0.1390862
+"CD16-positive, CD56-dim natural killer cell, human",negative,3,ENSG00000132002,DNAJB1,-0.07458888
+"CD16-positive, CD56-dim natural killer cell, human",negative,4,ENSG00000110448,CD5,-0.052421354
+"CD16-positive, CD56-dim natural killer cell, human",negative,5,ENSG00000167615,LENG8,-0.023801701
+"CD16-positive, CD56-dim natural killer cell, human",negative,6,ENSG00000172534,HCFC1,0.0
+"CD16-positive, CD56-dim natural killer cell, human",negative,7,ENSG00000184216,IRAK1,0.0
+"CD16-positive, CD56-dim natural killer cell, human",negative,8,ENSG00000169057,MECP2,0.0
+"CD16-positive, CD56-dim natural killer cell, human",negative,9,ENSG00000196924,FLNA,0.0
+"CD16-positive, CD56-dim natural killer cell, human",negative,10,ENSG00000102119,EMD,0.0
+"CD16-positive, CD56-dim natural killer cell, human",negative,11,ENSG00000102125,TAZ,0.0
+"CD16-positive, CD56-dim natural killer cell, human",negative,12,ENSG00000071553,ATP6AP1,0.0
+"CD16-positive, CD56-dim natural killer cell, human",negative,13,ENSG00000203879,GDI1,0.0
+"CD16-positive, CD56-dim natural killer cell, human",negative,14,ENSG00000160211,G6PD,0.0
+"CD16-positive, CD56-dim natural killer cell, human",negative,15,ENSG00000269335,IKBKG,0.0
+"CD16-positive, CD56-dim natural killer cell, human",negative,16,ENSG00000160219,GAB3,0.0
+"CD16-positive, CD56-dim natural killer cell, human",negative,17,ENSG00000183878,UTY,0.0
+"CD16-positive, CD56-dim natural killer cell, human",negative,18,ENSG00000012817,KDM5D,0.0
+"CD16-positive, CD56-dim natural killer cell, human",negative,19,ENSG00000198888,MT-ND1,0.0
+"CD16-positive, CD56-dim natural killer cell, human",negative,20,ENSG00000198763,MT-ND2,0.0
+"effector memory CD8-positive, alpha-beta T cell",positive,1,ENSG00000271503,CCL5,1.2906084
+"effector memory CD8-positive, alpha-beta T cell",positive,2,ENSG00000153563,CD8A,0.68399525
+"effector memory CD8-positive, alpha-beta T cell",positive,3,ENSG00000277734,TRAC,0.40541658
+"effector memory CD8-positive, alpha-beta T cell",positive,4,ENSG00000139187,KLRG1,0.3723476
+"effector memory CD8-positive, alpha-beta T cell",positive,5,ENSG00000167286,CD3D,0.25000703
+"effector memory CD8-positive, alpha-beta T cell",positive,6,ENSG00000124942,AHNAK,0.24261545
+"effector memory CD8-positive, alpha-beta T cell",positive,7,ENSG00000077984,CST7,0.1717506
+"effector memory CD8-positive, alpha-beta T cell",positive,8,ENSG00000166949,SMAD3,0.15455556
+"effector memory CD8-positive, alpha-beta T cell",positive,9,ENSG00000229474,PATL2,0.15186675
+"effector memory CD8-positive, alpha-beta T cell",positive,10,ENSG00000181847,TIGIT,0.1139306
+"effector memory CD8-positive, alpha-beta T cell",positive,11,ENSG00000142347,MYO1F,0.09453592
+"effector memory CD8-positive, alpha-beta T cell",positive,12,ENSG00000123240,OPTN,0.055652585
+"effector memory CD8-positive, alpha-beta T cell",positive,13,ENSG00000124788,ATXN1,0.055421058
+"effector memory CD8-positive, alpha-beta T cell",positive,14,ENSG00000178573,MAF,0.053989846
+"effector memory CD8-positive, alpha-beta T cell",positive,15,ENSG00000115232,ITGA4,0.04898934
+"effector memory CD8-positive, alpha-beta T cell",positive,16,ENSG00000158050,DUSP2,0.045081697
+"effector memory CD8-positive, alpha-beta T cell",positive,17,ENSG00000196154,S100A4,0.027490167
+"effector memory CD8-positive, alpha-beta T cell",positive,18,ENSG00000185697,MYBL1,0.019644646
+"effector memory CD8-positive, alpha-beta T cell",positive,19,ENSG00000198851,CD3E,0.018383075
+"effector memory CD8-positive, alpha-beta T cell",positive,20,ENSG00000153113,CAST,0.016752703
+"effector memory CD8-positive, alpha-beta T cell",negative,1,ENSG00000074966,TXK,-0.2882037
+"effector memory CD8-positive, alpha-beta T cell",negative,2,ENSG00000064393,HIPK2,-0.21222314
+"effector memory CD8-positive, alpha-beta T cell",negative,3,ENSG00000182568,SATB1,-0.18928066
+"effector memory CD8-positive, alpha-beta T cell",negative,4,ENSG00000100599,RIN3,-0.04294426
+"effector memory CD8-positive, alpha-beta T cell",negative,5,ENSG00000072110,ACTN1,-0.03617578
+"effector memory CD8-positive, alpha-beta T cell",negative,6,ENSG00000021355,SERPINB1,-0.027956555
+"effector memory CD8-positive, alpha-beta T cell",negative,7,ENSG00000176390,CRLF3,-0.0031999073
+"effector memory CD8-positive, alpha-beta T cell",negative,8,ENSG00000109906,ZBTB16,-0.0015673306
+"effector memory CD8-positive, alpha-beta T cell",negative,9,ENSG00000129353,SLC44A2,-0.0012603232
+"effector memory CD8-positive, alpha-beta T cell",negative,10,ENSG00000198712,MT-CO2,0.0
+"effector memory CD8-positive, alpha-beta T cell",negative,11,ENSG00000184216,IRAK1,0.0
+"effector memory CD8-positive, alpha-beta T cell",negative,12,ENSG00000169057,MECP2,0.0
+"effector memory CD8-positive, alpha-beta T cell",negative,13,ENSG00000196924,FLNA,0.0
+"effector memory CD8-positive, alpha-beta T cell",negative,14,ENSG00000102119,EMD,0.0
+"effector memory CD8-positive, alpha-beta T cell",negative,15,ENSG00000102125,TAZ,0.0
+"effector memory CD8-positive, alpha-beta T cell",negative,16,ENSG00000071553,ATP6AP1,0.0
+"effector memory CD8-positive, alpha-beta T cell",negative,17,ENSG00000203879,GDI1,0.0
+"effector memory CD8-positive, alpha-beta T cell",negative,18,ENSG00000160211,G6PD,0.0
+"effector memory CD8-positive, alpha-beta T cell",negative,19,ENSG00000269335,IKBKG,0.0
+"effector memory CD8-positive, alpha-beta T cell",negative,20,ENSG00000160219,GAB3,0.0
+memory B cell,positive,1,ENSG00000136573,BLK,0.6640421
+memory B cell,positive,2,ENSG00000240505,TNFRSF13B,0.5342186
+memory B cell,positive,3,ENSG00000163568,AIM2,0.3826455
+memory B cell,positive,4,ENSG00000211896,IGHG1,0.22868486
+memory B cell,positive,5,ENSG00000109436,TBC1D9,0.18369041
+memory B cell,positive,6,ENSG00000211895,IGHA1,0.15842389
+memory B cell,positive,7,ENSG00000116191,RALGPS2,0.15268727
+memory B cell,positive,8,ENSG00000161929,SCIMP,0.1321215
+memory B cell,positive,9,ENSG00000272398,CD24,0.12927513
+memory B cell,positive,10,ENSG00000058091,CDK14,0.12170908
+memory B cell,positive,11,ENSG00000116731,PRDM2,0.09702796
+memory B cell,positive,12,ENSG00000126821,SGPP1,0.08802286
+memory B cell,positive,13,ENSG00000119408,NEK6,0.08698702
+memory B cell,positive,14,ENSG00000076604,TRAF4,0.0837052
+memory B cell,positive,15,ENSG00000140750,ARHGAP17,0.0811761
+memory B cell,positive,16,ENSG00000103811,CTSH,0.067591324
+memory B cell,positive,17,ENSG00000166405,RIC3,0.06585042
+memory B cell,positive,18,ENSG00000152492,CCDC50,0.06300928
+memory B cell,positive,19,ENSG00000124942,AHNAK,0.0627929
+memory B cell,positive,20,ENSG00000213145,CRIP1,0.04164574
+memory B cell,negative,1,ENSG00000182568,SATB1,-0.47082224
+memory B cell,negative,2,ENSG00000100422,CERK,-0.073212266
+memory B cell,negative,3,ENSG00000069493,CLEC2D,-0.028564015
+memory B cell,negative,4,ENSG00000187608,ISG15,0.0
+memory B cell,negative,5,ENSG00000184216,IRAK1,0.0
+memory B cell,negative,6,ENSG00000169057,MECP2,0.0
+memory B cell,negative,7,ENSG00000196924,FLNA,0.0
+memory B cell,negative,8,ENSG00000102119,EMD,0.0
+memory B cell,negative,9,ENSG00000102125,TAZ,0.0
+memory B cell,negative,10,ENSG00000071553,ATP6AP1,0.0
+memory B cell,negative,11,ENSG00000203879,GDI1,0.0
+memory B cell,negative,12,ENSG00000160211,G6PD,0.0
+memory B cell,negative,13,ENSG00000269335,IKBKG,0.0
+memory B cell,negative,14,ENSG00000160219,GAB3,0.0
+memory B cell,negative,15,ENSG00000183878,UTY,0.0
+memory B cell,negative,16,ENSG00000012817,KDM5D,0.0
+memory B cell,negative,17,ENSG00000198888,MT-ND1,0.0
+memory B cell,negative,18,ENSG00000198763,MT-ND2,0.0
+memory B cell,negative,19,ENSG00000049245,VAMP3,0.0
+memory B cell,negative,20,ENSG00000212907,MT-ND4L,0.0
+naive B cell,positive,1,ENSG00000100721,TCL1A,0.9999987
+naive B cell,positive,2,ENSG00000211898,IGHD,0.60694844
+naive B cell,positive,3,ENSG00000147535,PLPP5,0.5156367
+naive B cell,positive,4,ENSG00000104921,FCER2,0.3186815
+naive B cell,positive,5,ENSG00000084234,APLP2,0.29515326
+naive B cell,positive,6,ENSG00000137101,CD72,0.18344109
+naive B cell,positive,7,ENSG00000163534,FCRL1,0.15942405
+naive B cell,positive,8,ENSG00000101017,CD40,0.15696022
+naive B cell,positive,9,ENSG00000169762,TAPT1,0.12674457
+naive B cell,positive,10,ENSG00000135048,CEMIP2,0.06257649
+naive B cell,positive,11,ENSG00000157500,APPL1,0.054636195
+naive B cell,positive,12,ENSG00000087266,SH3BP2,0.049579695
+naive B cell,positive,13,ENSG00000079950,STX7,0.034103166
+naive B cell,positive,14,ENSG00000152804,HHEX,0.021425776
+naive B cell,positive,15,ENSG00000182606,TRAK1,0.018487176
+naive B cell,positive,16,ENSG00000082293,COL19A1,0.010451872
+naive B cell,positive,17,ENSG00000008083,JARID2,0.003114483
+naive B cell,positive,18,ENSG00000122986,HVCN1,0.0018267005
+naive B cell,positive,19,ENSG00000171603,CLSTN1,0.0
+naive B cell,positive,20,ENSG00000171608,PIK3CD,0.0
+naive B cell,negative,1,ENSG00000166710,B2M,-0.31448823
+naive B cell,negative,2,ENSG00000140853,NLRC5,-0.17941137
+naive B cell,negative,3,ENSG00000026025,VIM,-0.1524454
+naive B cell,negative,4,ENSG00000213145,CRIP1,-0.06454186
+naive B cell,negative,5,ENSG00000198886,MT-ND4,0.0
+naive B cell,negative,6,ENSG00000184216,IRAK1,0.0
+naive B cell,negative,7,ENSG00000169057,MECP2,0.0
+naive B cell,negative,8,ENSG00000196924,FLNA,0.0
+naive B cell,negative,9,ENSG00000102119,EMD,0.0
+naive B cell,negative,10,ENSG00000102125,TAZ,0.0
+naive B cell,negative,11,ENSG00000071553,ATP6AP1,0.0
+naive B cell,negative,12,ENSG00000203879,GDI1,0.0
+naive B cell,negative,13,ENSG00000160211,G6PD,0.0
+naive B cell,negative,14,ENSG00000269335,IKBKG,0.0
+naive B cell,negative,15,ENSG00000160219,GAB3,0.0
+naive B cell,negative,16,ENSG00000183878,UTY,0.0
+naive B cell,negative,17,ENSG00000012817,KDM5D,0.0
+naive B cell,negative,18,ENSG00000198888,MT-ND1,0.0
+naive B cell,negative,19,ENSG00000198763,MT-ND2,0.0
+naive B cell,negative,20,ENSG00000065526,SPEN,0.0
+"naive thymus-derived CD4-positive, alpha-beta T cell",positive,1,ENSG00000010610,CD4,0.7392518
+"naive thymus-derived CD4-positive, alpha-beta T cell",positive,2,ENSG00000163519,TRAT1,0.40970182
+"naive thymus-derived CD4-positive, alpha-beta T cell",positive,3,ENSG00000168685,IL7R,0.21423034
+"naive thymus-derived CD4-positive, alpha-beta T cell",positive,4,ENSG00000182568,SATB1,0.18486588
+"naive thymus-derived CD4-positive, alpha-beta T cell",positive,5,ENSG00000138795,LEF1,0.1798871
+"naive thymus-derived CD4-positive, alpha-beta T cell",positive,6,ENSG00000082074,FYB1,0.14781204
+"naive thymus-derived CD4-positive, alpha-beta T cell",positive,7,ENSG00000172005,MAL,0.13606001
+"naive thymus-derived CD4-positive, alpha-beta T cell",positive,8,ENSG00000186854,TRABD2A,0.12911879
+"naive thymus-derived CD4-positive, alpha-beta T cell",positive,9,ENSG00000149212,SESN3,0.12543821
+"naive thymus-derived CD4-positive, alpha-beta T cell",positive,10,ENSG00000081059,TCF7,0.0815873
+"naive thymus-derived CD4-positive, alpha-beta T cell",positive,11,ENSG00000196329,GIMAP5,0.07736714
+"naive thymus-derived CD4-positive, alpha-beta T cell",positive,12,ENSG00000065357,DGKA,0.066658095
+"naive thymus-derived CD4-positive, alpha-beta T cell",positive,13,ENSG00000168056,LTBP3,0.053264048
+"naive thymus-derived CD4-positive, alpha-beta T cell",positive,14,ENSG00000178562,CD28,0.05281225
+"naive thymus-derived CD4-positive, alpha-beta T cell",positive,15,ENSG00000091409,ITGA6,0.049042348
+"naive thymus-derived CD4-positive, alpha-beta T cell",positive,16,ENSG00000185811,IKZF1,0.03871741
+"naive thymus-derived CD4-positive, alpha-beta T cell",positive,17,ENSG00000135426,TESPA1,0.034050487
+"naive thymus-derived CD4-positive, alpha-beta T cell",positive,18,ENSG00000127311,HELB,0.01584315
+"naive thymus-derived CD4-positive, alpha-beta T cell",positive,19,ENSG00000102760,RGCC,0.0083412295
+"naive thymus-derived CD4-positive, alpha-beta T cell",positive,20,ENSG00000110448,CD5,0.0018344973
+"naive thymus-derived CD4-positive, alpha-beta T cell",negative,1,ENSG00000213809,KLRK1,-1.0
+"naive thymus-derived CD4-positive, alpha-beta T cell",negative,2,ENSG00000153563,CD8A,-0.7178116
+"naive thymus-derived CD4-positive, alpha-beta T cell",negative,3,ENSG00000161405,IKZF3,-0.13893479
+"naive thymus-derived CD4-positive, alpha-beta T cell",negative,4,ENSG00000019582,CD74,-0.09469536
+"naive thymus-derived CD4-positive, alpha-beta T cell",negative,5,ENSG00000179583,CIITA,-0.009515894
+"naive thymus-derived CD4-positive, alpha-beta T cell",negative,6,ENSG00000172534,HCFC1,0.0
+"naive thymus-derived CD4-positive, alpha-beta T cell",negative,7,ENSG00000184216,IRAK1,0.0
+"naive thymus-derived CD4-positive, alpha-beta T cell",negative,8,ENSG00000169057,MECP2,0.0
+"naive thymus-derived CD4-positive, alpha-beta T cell",negative,9,ENSG00000196924,FLNA,0.0
+"naive thymus-derived CD4-positive, alpha-beta T cell",negative,10,ENSG00000102119,EMD,0.0
+"naive thymus-derived CD4-positive, alpha-beta T cell",negative,11,ENSG00000102125,TAZ,0.0
+"naive thymus-derived CD4-positive, alpha-beta T cell",negative,12,ENSG00000071553,ATP6AP1,0.0
+"naive thymus-derived CD4-positive, alpha-beta T cell",negative,13,ENSG00000203879,GDI1,0.0
+"naive thymus-derived CD4-positive, alpha-beta T cell",negative,14,ENSG00000160211,G6PD,0.0
+"naive thymus-derived CD4-positive, alpha-beta T cell",negative,15,ENSG00000269335,IKBKG,0.0
+"naive thymus-derived CD4-positive, alpha-beta T cell",negative,16,ENSG00000160219,GAB3,0.0
+"naive thymus-derived CD4-positive, alpha-beta T cell",negative,17,ENSG00000183878,UTY,0.0
+"naive thymus-derived CD4-positive, alpha-beta T cell",negative,18,ENSG00000012817,KDM5D,0.0
+"naive thymus-derived CD4-positive, alpha-beta T cell",negative,19,ENSG00000198888,MT-ND1,0.0
+"naive thymus-derived CD4-positive, alpha-beta T cell",negative,20,ENSG00000198763,MT-ND2,0.0
+"naive thymus-derived CD8-positive, alpha-beta T cell",positive,1,ENSG00000153563,CD8A,1.17702
+"naive thymus-derived CD8-positive, alpha-beta T cell",positive,2,ENSG00000184613,NELL2,0.37050343
+"naive thymus-derived CD8-positive, alpha-beta T cell",positive,3,ENSG00000072110,ACTN1,0.3523904
+"naive thymus-derived CD8-positive, alpha-beta T cell",positive,4,ENSG00000275395,FCGBP,0.35090014
+"naive thymus-derived CD8-positive, alpha-beta T cell",positive,5,ENSG00000213809,KLRK1,0.31106356
+"naive thymus-derived CD8-positive, alpha-beta T cell",positive,6,ENSG00000172673,THEMIS,0.2662412
+"naive thymus-derived CD8-positive, alpha-beta T cell",positive,7,ENSG00000138795,LEF1,0.21803248
+"naive thymus-derived CD8-positive, alpha-beta T cell",positive,8,ENSG00000064201,TSPAN32,0.12601694
+"naive thymus-derived CD8-positive, alpha-beta T cell",positive,9,ENSG00000204472,AIF1,0.123600036
+"naive thymus-derived CD8-positive, alpha-beta T cell",positive,10,ENSG00000152270,PDE3B,0.12070046
+"naive thymus-derived CD8-positive, alpha-beta T cell",positive,11,ENSG00000172766,NAA16,0.048869208
+"naive thymus-derived CD8-positive, alpha-beta T cell",positive,12,ENSG00000070081,NUCB2,0.04408325
+"naive thymus-derived CD8-positive, alpha-beta T cell",positive,13,ENSG00000099204,ABLIM1,0.02193251
+"naive thymus-derived CD8-positive, alpha-beta T cell",positive,14,ENSG00000171608,PIK3CD,0.0
+"naive thymus-derived CD8-positive, alpha-beta T cell",positive,15,ENSG00000074800,ENO1,0.0
+"naive thymus-derived CD8-positive, alpha-beta T cell",positive,16,ENSG00000142599,RERE,0.0
+"naive thymus-derived CD8-positive, alpha-beta T cell",positive,17,ENSG00000198938,MT-CO3,0.0
+"naive thymus-derived CD8-positive, alpha-beta T cell",positive,18,ENSG00000198840,MT-ND3,0.0
+"naive thymus-derived CD8-positive, alpha-beta T cell",positive,19,ENSG00000212907,MT-ND4L,0.0
+"naive thymus-derived CD8-positive, alpha-beta T cell",positive,20,ENSG00000198886,MT-ND4,0.0
+"naive thymus-derived CD8-positive, alpha-beta T cell",negative,1,ENSG00000163564,PYHIN1,-0.40416762
+"naive thymus-derived CD8-positive, alpha-beta T cell",negative,2,ENSG00000271503,CCL5,-0.38185325
+"naive thymus-derived CD8-positive, alpha-beta T cell",negative,3,ENSG00000169508,GPR183,-0.15557726
+"naive thymus-derived CD8-positive, alpha-beta T cell",negative,4,ENSG00000166949,SMAD3,-0.06623645
+"naive thymus-derived CD8-positive, alpha-beta T cell",negative,5,ENSG00000124942,AHNAK,-0.051921427
+"naive thymus-derived CD8-positive, alpha-beta T cell",negative,6,ENSG00000150347,ARID5B,-0.036421616
+"naive thymus-derived CD8-positive, alpha-beta T cell",negative,7,ENSG00000010610,CD4,-0.016525054
+"naive thymus-derived CD8-positive, alpha-beta T cell",negative,8,ENSG00000067082,KLF6,-0.0130522465
+"naive thymus-derived CD8-positive, alpha-beta T cell",negative,9,ENSG00000172534,HCFC1,0.0
+"naive thymus-derived CD8-positive, alpha-beta T cell",negative,10,ENSG00000184216,IRAK1,0.0
+"naive thymus-derived CD8-positive, alpha-beta T cell",negative,11,ENSG00000169057,MECP2,0.0
+"naive thymus-derived CD8-positive, alpha-beta T cell",negative,12,ENSG00000196924,FLNA,0.0
+"naive thymus-derived CD8-positive, alpha-beta T cell",negative,13,ENSG00000102119,EMD,0.0
+"naive thymus-derived CD8-positive, alpha-beta T cell",negative,14,ENSG00000102125,TAZ,0.0
+"naive thymus-derived CD8-positive, alpha-beta T cell",negative,15,ENSG00000071553,ATP6AP1,0.0
+"naive thymus-derived CD8-positive, alpha-beta T cell",negative,16,ENSG00000203879,GDI1,0.0
+"naive thymus-derived CD8-positive, alpha-beta T cell",negative,17,ENSG00000160211,G6PD,0.0
+"naive thymus-derived CD8-positive, alpha-beta T cell",negative,18,ENSG00000269335,IKBKG,0.0
+"naive thymus-derived CD8-positive, alpha-beta T cell",negative,19,ENSG00000160219,GAB3,0.0
+"naive thymus-derived CD8-positive, alpha-beta T cell",negative,20,ENSG00000183878,UTY,0.0
