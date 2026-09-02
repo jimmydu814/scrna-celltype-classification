@@ -31,7 +31,6 @@ data/external/*
 results/models/
 results/figures/
 results/tables/
-results/metrics/
 
 # Common large file types
 *.h5ad
